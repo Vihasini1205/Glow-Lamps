@@ -1,0 +1,1 @@
+Glow Lamps is a modern web design project focused on showcasing stylish and ambient lighting products. The website highlights product details with a clean UI, smooth layouts, and visually appealing sections. It is designed to provide users with an engaging browsing experience while exploring decorative and functional lamps.
